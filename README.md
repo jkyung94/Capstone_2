@@ -10,9 +10,10 @@ Each year, more than a million songs are released annually, which means that eve
 
 ## Databases
 * [Spotify API](https://developer.spotify.com/documentation/web-api/)
+* Wikipedia/Billboard
 
 ## Approach
-* Pull data from API between 2015-2017 to keep it relevant
+* Pull data from API between 2014-2017 to keep it relevant
 * EDA and Inferential Statistics of different features
 * Classification Models for prediction
 
