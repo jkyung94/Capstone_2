@@ -8,7 +8,7 @@ Each year, more than a million songs are released annually, which means that eve
 * Music Industry (record companies, music publishers, etc.)
 * Anyone interested in music
 
-## Databases
+## Databases/Source
 * [Spotify API](https://developer.spotify.com/documentation/web-api/)
 * Wikipedia/Billboard
 
